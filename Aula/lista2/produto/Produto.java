@@ -1,4 +1,4 @@
-package Produto;
+package lista2.produto;
 
 public class Produto {
     public int id, qtde;

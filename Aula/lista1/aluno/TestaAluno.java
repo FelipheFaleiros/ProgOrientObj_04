@@ -1,4 +1,4 @@
-package Aluno;
+package lista1.aluno;
 public class TestaAluno {
     
     //public indica que o método é publico

@@ -1,4 +1,4 @@
-package Cliente;
+package lista1.cliente;
 public class TestaCliente {
     
     public static void main(String args[]){

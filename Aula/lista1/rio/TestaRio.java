@@ -1,4 +1,4 @@
-package Rio;
+package lista1.rio;
 
 public class TestaRio {
     //main é um metodo especial 
