@@ -2,7 +2,7 @@ package aula.lista2.produto;
 public class Produto {
     //vamos encapsular as variáveis -> esconder, proteger, privar de mau uso
     private int id, qtde;
-    public String descricao;
+    private String descricao;
     private float preco;
 
     //contrutor
