@@ -1,4 +1,4 @@
-package aula.lista1.aluno;
+package lista1.aluno;
 public class Aluno {
     public int numeroAluno, idade; //int é tipo primitivo
     public String nome; //String é uma classe, por isso começa com letra maiúscula

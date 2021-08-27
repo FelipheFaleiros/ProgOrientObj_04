@@ -1,4 +1,4 @@
-package aula.lista1.rio;
+package lista1.rio;
 
  public class Rio {
       public String nome;

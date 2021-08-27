@@ -1,4 +1,4 @@
-package aula.lista1.carro;
+package lista1.carro;
 //package Aula1;
 
 public class TestaCarro {

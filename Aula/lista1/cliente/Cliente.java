@@ -1,4 +1,4 @@
-package aula.lista1.cliente;
+package lista1.cliente;
 
 
 public class Cliente {

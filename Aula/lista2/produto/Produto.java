@@ -1,4 +1,5 @@
-package aula.lista2.produto;
+package lista2.produto;
+
 public class Produto {
     //vamos encapsular as variáveis -> esconder, proteger, privar de mau uso
     private int id, qtde;

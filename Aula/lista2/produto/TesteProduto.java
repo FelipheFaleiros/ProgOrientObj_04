@@ -1,4 +1,4 @@
-package aula.lista2.produto;
+package lista2.produto;
 
 public class TesteProduto {
     public static void main(String[] args) {
