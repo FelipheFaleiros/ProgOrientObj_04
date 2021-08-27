@@ -55,6 +55,23 @@ public class Produto {
         }
     }
          
+    //criação do método getters
+    public int getQtde(){
+        return this.qtde;
+    }
+
+    public float getPre(){
+        return this.preco;
+    }
+
+    public int getId(){
+        return this.id;
+    }
+
+    public String getDescr(){
+        return this.descricao;
+    }
+
     //comprar 
     public void comprar (int x){
         this.qtde += x;

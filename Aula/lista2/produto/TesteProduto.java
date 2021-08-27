@@ -13,6 +13,7 @@ public class TesteProduto {
 
         System.out.println(prod1.mostra());
         System.out.println(prod2.mostra());
+        System.out.println(prod2.getQtde()); 
 
         Produto prod3 = new Produto();
         prod3.setPreco (15); //set usado para poder encapsular a variável 
