@@ -67,7 +67,7 @@ public class RedeSocial {
    // Usuario é o tipo do parâmetro, uma classe
    // usuario é o parâmetro, um obj
     public void addUsuario(Usuario usuario){ 
-        this.usuarios.add(usuario); // adciona usuário no vetor
+        this.usuarios.add(usuario); // adiciona usuário no vetor
     }
 
 }
